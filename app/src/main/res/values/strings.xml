@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fibonacci Native</string>
+
+    <string name="hello">Get your Fibonacci Numbers here!</string>
+    <string name="action_settings">Settings</string>
+    <string name="fibJR">Fibonacci - Java Recursion</string>
+    <string name="fibNR">Fibonacci - Native Recursion</string>
+    <string name="fibJI">Fibonacci - Java Iterative</string>
+    <string name="fibNI">Fibonacci - Native Iterative</string>
+    <string name="button">Get Fibonacci Result </string>
+</resources>
